@@ -1,0 +1,95 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+  /* font-family: 'san serif'; */
+}
+
+#carousel {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+h2#phone a {
+  text-decoration: none;
+  color: #0a8405;
+}
+
+#aboutservice {
+  padding-top: 1rem;
+  /* background-color: #e2edff; */
+}
+
+#projects {
+  /* padding-top: 1rem; */
+  /* background-color: #e2edff; */
+  background-color: #f2f7fa;
+}
+
+#about {
+  padding-top: 5rem;
+  background-color: #f2f7fa;
+}
+
+#whatsapp-1 a {
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  text: center;
+  text-color: white;
+}
+
+#social_media-1 ul li {
+  display: inline-block;
+  position: abslute;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+#social_media-1 ul li i {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  color: #f1f1f1;
+  position: relative;
+  background-color: #2980b9;
+  border: 2px;
+  border-color: blue;
+  text-align: center;
+  border-radius: 30%;
+}
+
+#social_media-1 ul li i:hover {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  color: #2980b9;
+  position: relative;
+  background-color: #f1f1f1;
+  border: 2px;
+  border-color: white;
+  text-align: center;
+  border-radius: 30%;
+  transition: 0.2s ease-in;
+}
+
+.footer-address ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.footer-address ul li {
+  line-height: 40px;
+}
+
+footer #copyright a:before {
+  text-color: #212529;
+}
+footer #copyright a:hover {
+  text-color: #ffc107;
+}
+
+/* warna background bnetfit : #f2f7fa */
